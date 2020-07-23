@@ -2,7 +2,8 @@
 *Solved html and CSS for UTA Bootcamp Homework-01 HTML CSS Git: Code Refactor*
 ### This repository contains the solved code for the first homework assignment for the UT-Austin Coding Bootcamp.
 
-
+  
+  
 **Files include:**
 * Index containing HTML code
 * Style Sheet containing CSS code
