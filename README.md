@@ -2,6 +2,8 @@
 *Solved html and CSS for UTA Bootcamp Homework-01 HTML CSS Git: Code Refactor*
 #### This repository contains the solved code for the first homework assignment for the UT-Austin Coding Bootcamp.
 
+---
+
 ### Assignment
 >"Web accessibility is an increasingly important consideration for businesses, ensuring that people with 
 >disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation." 
