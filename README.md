@@ -10,6 +10,8 @@
 
 The assignment was to take an existing website with styling and refactor the code to meet moden accessibility, semantic, and readability standards. 
 
+---
+
 ### Contents
 **Files include:**
 * Index containing HTML code
@@ -19,14 +21,22 @@ The assignment was to take an existing website with styling and refactor the cod
 
 The mantra behind this assignment: "always leave it better than you found it”.
 
+---
+
 ### Team
 Refactorer: Abraham Spindel
+
+---
 
 ### Credits
 Horiseon Social Solution Services
 
+---
+
 ### Badges
 go here
+
+---
 
 ### License
 All content licensed by Horiseon Social Solution Services, Inc. 
