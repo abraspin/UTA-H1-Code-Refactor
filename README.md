@@ -3,6 +3,11 @@
 ### This repository contains the solved code for the first homework assignment for the UT-Austin Coding Bootcamp.
 
   
+>"Web accessibility is an increasingly important consideration for businesses, ensuring that people with 
+>disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation." 
+
+The assignment was to take an existing website with styling and refactor the code to meet moden accessibility, semantic, and readability standards. 
+
   
 **Files include:**
 * Index containing HTML code
@@ -10,9 +15,4 @@
 * Photos displayed on the web page
 * This README file
 
->"Web accessibility is an increasingly important consideration for businesses, ensuring that people with 
->disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation." 
-
-The assignment was to take an existing website with styling and refactor the code to meet moden accessibility, semantic, and readability standards. 
-
-The mantra behind this assignment was to always “leave it better than you found it”.
+The mantra behind this assignment: "always leave it better than you found it”.
